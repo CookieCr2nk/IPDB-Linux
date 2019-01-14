@@ -14,7 +14,7 @@ read -p "Geben sie Ihre Gewünschte IP-Adresse ein: " ipadress
 
 curl http://api.db-ip.com/v2/free/$ipadress
 
-exit 1 # Bitte Führe dieses Script als Root aus.
+//exit 1 # Bitte Führe dieses Script als Root aus.
 
 echo "--------------------------------------------"
 echo "Vielen Dank für die Nutzung des Scripts."

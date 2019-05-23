@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# Script made by https://nebix.tk / Copyright - Noah J.
+# Script made by Noah J.
 # Github-Repository https://github.com/CookieCr2nk/db-ip
 
 
